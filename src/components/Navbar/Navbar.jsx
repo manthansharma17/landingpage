@@ -19,7 +19,7 @@ function Navbar() {
 
       {/* Navigation */}
 
-      <nav className="hidden md:flex items-center gap-2 glass-nav rounded-full px-2 py-2">
+      <nav className="hidden md:flex items-center gap-2 glass-nav rounded-full px-2 py-2 border border-white/30">
 
         <a
           href="#"
