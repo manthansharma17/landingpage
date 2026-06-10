@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
 
 @import "tailwindcss";
+
 @layer utilities {
+  
   @keyframes pulse-slow {
     0%, 100% { opacity: 0.3; }
     50% { opacity: 0.6; }
